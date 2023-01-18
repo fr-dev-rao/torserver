@@ -2,4 +2,4 @@
 *.py
 *.exe
 !ten.py
-[t,e,i,o,u]*.txt
+[t,e,i,o,u]*py
