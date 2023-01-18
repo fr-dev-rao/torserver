@@ -1,4 +1,5 @@
 
 *.py
 *.exe
+!ten.py
 
