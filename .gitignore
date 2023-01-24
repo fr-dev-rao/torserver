@@ -1,5 +1,2 @@
 
 *.py
-*.exe
-!ten.py
-[t,e,i,o,u]*py
